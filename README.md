@@ -2,9 +2,9 @@
 
 ## Run Instructions
 To run from terminal, use the command 
-'''
+```
 python3 Front.py
-'''
+```
 
 Backend_NoGraphics.py runs training until the program wins, and outputs the results of each generation
 
